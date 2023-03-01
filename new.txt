@@ -1,2 +1,3 @@
  Hello how are you
  This is line from local repo
+ This is a new line from local repo
